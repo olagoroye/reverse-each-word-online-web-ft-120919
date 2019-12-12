@@ -13,3 +13,7 @@ end
 #     return_array << string.reverse
 #   end
 #   return_array.join(" ")
+
+def reverse_each_word(sentence)
+  
+end
