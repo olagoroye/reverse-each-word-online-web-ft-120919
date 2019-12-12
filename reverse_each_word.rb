@@ -1,7 +1,7 @@
 def reverse_each_word(sentence)
   word = []
-  sentence.each do |topping|
-    array. << "I love #{topping} on my burgers!"
+  sentence.each do |word|
+    sentence.reverse(word)
   end
-  my_statements
+  word
 end
